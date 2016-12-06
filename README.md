@@ -22,6 +22,6 @@ apm install equinox-syntax
 
 ## Further information
 
-Project page: [http://www.protesilaos.com/equinox](http://www.protesilaos.com/equinox)
+Project page: [https://protesilaos.com/equinox](https://protesilaos.com/equinox)
 
 Equinox dark version: [https://atom.io/themes/equinox-dark-syntax](https://atom.io/themes/equinox-dark-syntax)
